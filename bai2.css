@@ -1,0 +1,28 @@
+.card{
+    box-shadow: 10px 10px 15px rgb(101, 164, 169);
+}
+.anh{
+    position: relative;
+}
+.sale{
+    position: absolute;
+    top: 160px;
+    display: flex;
+    flex-direction: row;
+}
+.card-title,.card-text{
+    text-align: center;
+}
+.button{
+    position: relative;
+    text-align: center;
+}
+.anh1{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 13px;
+    margin-left: 5px;
+}
+
+
